@@ -3,12 +3,12 @@ entries:
   member-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-29T11:08:03.022044695+09:00"
+    created: "2026-06-29T11:13:42.668193106+09:00"
     description: fastapi memeber application
     digest: 5c3b56860ce6e8c6d90631012505b32f5b7a1f3d8d22788ddb365ec455de1c8b
     name: member-app
     type: application
     urls:
-    - https://jinsw1.github.io/git_my-helm-chart/member-app-0.1.0.tgz
+    - https://jinsw1.github.io/my-helm-chart/member-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-29T11:08:03.02161645+09:00"
+generated: "2026-06-29T11:13:42.66789573+09:00"
